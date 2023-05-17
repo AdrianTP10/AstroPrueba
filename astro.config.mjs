@@ -5,5 +5,4 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://adriantp10.github.io/pagina-labsol/',
-  base: '/pagina-labsol',
 })
